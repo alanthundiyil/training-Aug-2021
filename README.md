@@ -1,1 +1,4 @@
-# training-Aug-2021
+# ALAN MATHEW
+This is my first time in github
+Exploring ways around git
+Lets Go!!
